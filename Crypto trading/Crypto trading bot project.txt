@@ -1,0 +1,29 @@
+connect to kraken API
+
+store minuet data
+
+
+Compar change btween predicted and current find expected change for each model each has a mulltiplyer based off relevence add them up
+
+potential loss has to be higher then withdrawle cost 
+ 
+
+all need to read red in order to sell use minet 
+all need to be green in order to buy
+record the last 5 actions it would like tto take
+wait for 5 minets and if 3 of 5 are actions take acton if not continue to wait
+
+
+need to keep seeing account balance
+
+implement tension factor
+
+
+
+
+
+get it saving minuet data to a csv file
+
+save tensor models
+
+accounting for change in day light saving(should be fine but double check)
